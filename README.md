@@ -1,10 +1,4 @@
-- Hi, I’m @purrchinlearning. I live in Seoul, at South Korea
-- I’m interested in ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- How to reach me ...
-
-<!---
-purrchinlearning/purrchinlearning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @purrchinlearning. I'm korean and i live in seoul. 
+- I'm majoring in Mechanical Engineering at Hanyang University.
+- I’m interested in the Machine Learning, Artificial Intelligence, Deep Learning, and Image Analysis.
+- I’m currently learning the basic Deep Learning.
